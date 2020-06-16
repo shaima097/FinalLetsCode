@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">LetsCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Image discreption</string>
+    <string name="ploto">بلوتو</string>
+    <string name="nepton">نبتون</string>
+    <string name="dimond">عدد ألماساتك</string>
+    <string name="zero">0</string>
+    <string name="zohal">زحل</string>
+    <string name="moshtari">المشتري</string>
+    <string name="earth">الأرض</string>
+    <string name="Hi">أهلاً بك!</string>
+    <string name="nametext">دعنا نتعرف إليك ، أدخل اسمك من فضلك :</string>
+    <string name="namelabel">الاسم</string>
+    <string name="nameval">   </string>
+    <string name="buttonstarttext"> ابدأ</string>
+    <string name="Hi2">أهلاً بك يا</string>
+    <string name="nameL"> -------------------</string>
+    <string name="choose">لقد تم اختيارك أنت ولبيب لإتمام المهمة رقم</string>
+    <string name="num">1793</string>
+    <string name="welcome2">لجمع الألماسات المكتشفة مؤخراً في\nمجرة درب التبانة</string>
+    <string name="adventure">فلنبدأ المغامرة!</string>
+    <string name="labeb">لبيب</string>
+    <string name="beforestart">قبل البدء بالمهمة، يجب عليك التعرف أولاً على ماذا تعني </string>
+    <string name="programming">البرمجة؟</string>
+    <string name="welcome_4text"> حسنا، لنفترض أن لديك روبوت وتريد منه تنفيذ أوامرك ! \n  كالتقدم خطوة للأمام، أو التوقف عن الحركة ؛ليقوم بذلك، عليك تزويده ببعض\n </string>
+    <string name="welcome5_1text">أليس من الرائع لو كان بإمكان الجهاز الذي بين يديك تنفيذ أوامرك ؟</string>
+    <string name="welcome5_2text">الأمر ليس مستحيلاً !</string>
+
+    <string name="welcome5_3text"> كل ماعليك فعله هو كتابة بعض \nالأوامر والتعليمات باختصار هذه هي : </string>
+    <string name="welcome5_4text">البرمجة</string>
+
+
+    <string name="welcome6_1text">هي كتابة مجموعة من الأوامر و\n التعليمات التي تريد من\n الحاسوب تنفيذها .</string>
+    <string name="welcome7_1text">وللحاسوب لغات بإمكانك مخاطبته بها لينفذ ما تريد..</string>
+    <string name="welcome7_2text">في هذه المهمة سنعلمك إحدى هذه اللغات، وهي لغة</string>
+    <string name="welcome7_3text">بايثون</string>
+    <string name="go">انطلق</string>
+    <color name="white">#ffffff</color>
+    <string name="fist_level_1">   أنت الآن في كوكب بلوتو، عليك  \n معرفة بعض الأمور المتعلقة</string>
+
+    <string name="fist_level_2">   تستخدم لغة بايثون لبرمجة الروبوتات \nأمثال لبيب! وأيضاً تستخدم في صناعة\n التطبيقات و الألعاب التي تستخدمها\n في جهازك..</string>
+
+    <string name="fist_level_3">   تستطيع أن  تفعل الكثير من الأمور الأخرى باستخدام لغة بايثون،  </string>
+    <string name="fist_level_3_1"> مثلاً:بإمكانك أن تطبع جملة    </string>
+
+    <string name="fist_level_3_2">  \"أهلاً بدرب التبانة!\". </string>
+    <string name="result"> النتيجة</string>
+
+    <string name="fist_level_3_3">  جرّب سحب مربع    </string>
+
+    <string name="fist_level_3_4">  \"أهلاً بدرب التبانة!\" في الفراغ، وراقب النتيجة. </string>
+
+    <string name="fist_level_4">لقد كتبت برنامجك الأول باستخدام الأمر  </string>
+    <string name="print"> print( )  </string>
+
+    <string name="fist_level_4_1"> بإمكانك كتابة ما تشاء باستخدام هذا الأمر، جرب بنفسك:</string>
+
+    <string name="fist_level_5_1"> الآن وبعد أن تعرفت على مكونات كوكب بلوتو </string>
+    <string name="fist_level_5_2"> أنت جاهز لجمع الألماسات!  \nفلنجمعها معاً! </string>
+    <string name="mission1">مهمة رقم1 من 2: </string>
+    <string name="mission2">مهمة رقم2 من 2 : </string>
+    <string name="mission5">مهمة رقم3: </string>
+    <string name="quiz1_1">  اختر الإجابة الصحيحة : نستخدم لغة بايثون في : </string>
+    <string name="answer1">  صناعة التطبيقات </string>
+    <string name="answer2">  التواصل مع البشر </string>
+    <string name="help"> اطلب مساعدتي </string>
+
+    <string name="name_box_text"> أدخل اسمك من فضلك </string>
+
+    <string name="quiz1_2"> حاول ترتيب المربعات التالية لكي تحصل على  \nالشكل الصحيح لجملة الطباعة:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="try_it_yourself"> (جرّب بنفسك)</string>
+
+    <string name="labeb_withQoutes">&quot;لبيب&quot;</string>
+    <string name="neptonentry">أهلاً بك في كوكب نبتون .</string>
+    <string name="neptonentry1">تتميز ألماسات هذا الكوكب  بأنها ذات أنواع مختلفة ، ولكي تتمكن من جمعها عليك أولاً معرفة بعض الأساسيات المتعلقة بالمتغيرات و العمليات الحسابية.</string>
+    <string name="talibutton">التالي</string>
+    <string name="secondlevel_interface2">في البرمجة ، المتغيرات هي كالصناديق لحفظ الأشياء</string>
+    <string name="secondlevel_interface3">بالإمكان أن نصنف هذه الصناديق لحفظ أشياء معينة ، فمثلاً الصندوق الأحمر لحفظ الألعاب و الأزرق لحفظ الكتب </string>
+    <string name="secondlevel_interface4_1">ولكي نميز كل صندوق ،لابد أن نطلق عليه اسماً مميزاً .</string>
+    <string name="secondlevel_interface4_2">ببساطة، هذه هي المتغيرات بالنسبة للحاسوب ! هي منطقة لتخزين قيمة معينة، نقوم بتخزين القيمة فيها بحيث إذا احتجنا لهذه القيمة نقوم فوراً بمناداتها باسمها و استخدامها </string>
+    <string name="secondlevel_interface4_3">الألعاب</string>
+    <string name="secondlevel_interface4_4">الكتب</string>
+    <string name="secondlevel_5_1">سوف نتعرف على أشهر أنواع المتغيرات  ، ألا وهي :  </string>
+    <string name="secondlevel_5_2"> String و int </string>
+    <string name="secondlevel_5_3">مخصص لتخزين الأرقام</string>
+    <string name="secondlevel_5_4">مخصص لتخزين النصوص </string>
+    <string name="secondlevel_6"> لإنشاء متغير من نوع  int  ،كل ماعلينا فعله هو وضع الاسم الذي نود\n إطلاقه  على المتغير في اليسار ومن ثم علامة = وبعد ذلك القيمة التي\n نود تخزينها.</string>
+    <string name="secondlevel_8_1"> لإنشاء متغير من نوع String ، الأمر سهل جداً و شبيه بطريقة\n إنشاء متغير من نوع int ،</string>
+    <string name="qutetionMarks"> (&quot;&quot;) </string>
+    <string name="secondlevel_8_2"> ولكن فقط علينا زيادة علامة التنصيص\     \        \       \      \قبل و بعد الكلمة المراد تخزينها . </string>
+    <string name="secondlevel_8_3">  على سبيل المثال: </string>
+    <string name="secondlevel_9_1"> لإنشاء وطباعة متغير يحتوي على اسم لبيب ، نكتب الأمر التالي : </string>
+
+    <string name="secondlevel_22_1">مهمة رقم3 من 5:</string>
+    <string name="secondlevel_24_1">مهمة رقم4 من 5:</string>
+    <string name="secondlevel_22_2">   ماهو ناتج السطر البرمجي التالي :          </string>
+    <string name="secondlevel_12_1">ولكن عندما      </string>
+    <string name="secondlevel_12_2">    نضع علامتي التنصيص  </string>
+    <string name="secondlevel_11_1">   لابد أنك تستغرب لماذا تمت طباعة X ولم يتم طباعة\n “لبيب” وذلك لأنه عندما نضع علامتي  التنصيص\nفي أمر الطباعة فإننا نقوم بطباعة مابين القوسين .  </string>
+
+    <string name="qots">(\" \")</string>
+    <string name="secondlevel_12_3"> في أمر  الطباعة ، فإن الناتج        </string>
+    <string name="secondlevel_12_4">سيكون القيمة المخزنة في المتغير   </string>
+
+    <string name="tryit">  (جرب بنفسك )   </string>
+    <string name="secondlevel_15_1">      بإمكاننا أن نجري عمليات الجمع و الطرح التي تعرفها  على المتغيرات  فمثلاً :    </string>
+
+    <string name="secondlevel_15_3">    إذا كان المتغير   </string>
+    <string name="x">    X=5</string>
+    <string name="var">و المتغير </string>
+    <string name="y"> Y=1   </string>
+    <string name="secondlevel_15_2">    فإن ناتج جمعهما</string>
+    <string name="six">    يساوي 6 !</string>
+    <string name="secondlevel_16_1"> تتميز عملية الجمع بأننا نستطيع استعمالها مع النصوص أيضاً ...</string>
+    <string name="secondlevel_16_5"> فمثلاً   إذا كان المتغير</string>
+    <string name="secondlevel_16_2">X=“هيّا”</string>
+    <string name="var2">و المتغير </string>
+    <string name="secondlevel_16_3">Y=“نُبرمج”</string>
+    <string name="secondlevel_16_4">سيكون جملة: </string>
+    <string name="lets">هيّا نبرمج.</string>
+    <string name="secondlevel_14_1">لقد تعلمت للتو مفهوم</string>
+    <string name="secondlevel_14_2">المتغيرات\  </string>
+    <string name="secondlevel_14_3">،في لغة بايثون بإمكانك استخدام هذه </string>
+    <string name="secondlevel_14_4">المتغيرات لتطبيق عمليتي الجمع والطرح !</string>
+    <string name="secondlevel_17_1">والآن، لكي تجمع ألماسات هذا الكوكب عليك أن تجتاز التحدي التالي:</string>
+    <string name="secondlevel_18_boxes">حاول وضع المتغيرات التالية في الصندوق المناسب :</string>
+    <string name="secondlevel_20_1">إذا أردنا الاحتفاظ بالرقم 18  في المتغير X  \n  فهل بإمكانك ترتيب المربعات التالية \n  لفعل ذلك بالشكل الصحيح ؟</string>
+    <string name="secondlevel_20_2">حاول وضع القيمة المناسبة في الفراغ   \n لتحصل على النتيجة : سأجمع ألماسات    كوكب نبتون !</string>
+    <string name="answer_the_question">فضلاً:أكمل حل السؤال أولاً</string>
+    <string name="hint2_3">تذكر: ناتج السطر البرمجي التالي هو : 5 </string>
+    <string name="hint2_4">تذكر: ناتج السطر البرمجي التالي هو : نبتون </string>
+    <string name="AnswerCorrect">تم إتمام المهمة بنجاح</string>
+    <string name="AnswerWrong">لقد حدث أمر خاطئ</string>
+    <string name="AboveMinimmum">ممتاز </string>
+    <string name="UnderMinimum">حاول مرة أخرى</string>
+    <string name="ButtonCorrect">انطلق للكوكب التالي</string>
+    <string name="ButtonWrong">الرجوع إلى المهمات</string>
+    <string name="thirdlevel_1_1">أهلاً وسهلاً بك في كوكب زحل .. </string>
+    <string name="thirdlevel_1_2">لتتمكن من جمع ألماسات هذا الكوكب  عليك  التعرف على مفهوم الجمل الشرطية أولاً</string>
+    <string name="thirdlevel_2_1">تخيل أنك ستذهب في رحلة إلى الشمس، قبل أن تقوم بذلك عليك التحقق من توافر بعض الشروط، </string>
+    <string name="thirdlevel_2_2">مثل أن تكون المركبة خالية من الأعطال  !</string>
+    <string name="thirdlevel_3_1">سيكون من الرائع لو كان حاسوبك يحقق لك ماتريد وفق الشروط التي أنت تحددها ..  بالتأكيد ستستطيع تحقيق ذلك باستخدام الجمل الشرطية</string>
+    <string name="thirdlevel_4_1">الجمل الشرطية تتيح لك فعل أمر كالطباعة مثلاً وفقاً لشروط أنت تحددها ..</string>
+
+    <string name="thirdlevel_5">تتعامل الجمل الشرطية مع نوع من المتغيرات يسمى  (Boolean) أي:\n (القيم المنطقية) وهذا النوع من المتغيرات يحتوي إحدى القيمتين التاليتين: </string>
+    <string name="thirdlevel_6">إذا تحقق الشرط فهذا يعني أنه\   \    \ \   \ \ \ \ \ \     \   \وسوف ينفذ الأمر ،\n إذا لم يتحقق الشرط فهذا يعني أنه\   \    \ \   \ \ \ \ \ \     \   \ولن ينفذ الأمر.</string>
+    <string name="thirdlevel_7"> من خلال لغة بايثون ،يمكنك كتابة الشروط باستخدام الأمر : (if) كما في \nالمثال التالي :</string>
+    <string name="thirdlevel_8_1">     في الأمر السابق يتضح لنا أنه إذا كان العدد 5 أكبر من 2 فهذا يعني \nأن الشرط صحيح وسيتم تنفيذ أمر الطباعة . </string>
+    <string name="thirdlevel_8_2">    تذكر: نستخدم علامة\ \ \  \    \إذا أردنا التحقق ما إذا كان أحد العددين أكبر من الآخر ،بينما علامة\n\ \ \ \  \     \ \ \  إذا أردنا التحقق ما إذا كان أحد العددين أصغر من الآخر .</string>
+    <string name="thirdlevel_9">    ماذا لو كان الشرط خاطئاً و أردنا طباعة جملة مختلفة ؟ \n نستخدم الأمر (Else) والذي سيقوم بتنفيذ أمرٍ  \nمختلف عندما لا يكون الشرط صحيحاً في الجملة الشرطية (if)</string>
+    <string name="thirdlevel_18">     لو جربنا مثال التفاح والبرتقال مع علامة  عدم المساواة ، ستكون\n النتيجة صحيحة Trueهذه المرة ،  وذلك لأن التفاح لا يساوي البرتقال حقا !    </string>
+    <string name="thirdlevel_19">الآن أصبحت جاهزاً لجمع ألماسات كوكب زحل، فلنجمعها سوياً !</string>
+
+    <string name="thirdlevel_23_text"> اختر ما تراه مناسباً لتكوين جملة شرطية صحيحة :</string>
+    <string name="thirdlevel_24_quiz3_5text">ما هو ناتج المقارنة التالية : </string>
+    <string name="thirdlevel_1">في لغة بايثون تستخدم العلامة \ </string>
+    <string name="thirdlevel_1_continu">للتحقق من تساوي قيمتين </string>
+    <string name="thirdlevel_2">فمثلاً:إذا أردنا المقارنة بين التفاحة والبرتقالة فإنهما غير متساويتين!</string>
+    <string name="thirdlevel_3">فلونهما مختلف وشكلهما مختلف.</string>
+
+    <string name="thirdlevel5_1">الأمر نفسه لو أردنا المقارنة بين كلمتي :</string>
+    <string name="thirdlevel5_2">تفاح</string>
+    <string name="thirdlevel5_3">و</string>
+    <string name="thirdlevel5_4">برتقال</string>
+    <string name="thirdlevel5_5"> ستكون نتيجة السطر البرمجي التالي خاطئة \ False ،وذلك لأن كلمة</string>
+    <string name="thirdlevel5_6"> تفاح لاتماثل كلمة برتقال!</string>
+    <string name="thirdlevel5_equals">==</string>
+    <string name="thirdlevel16_1">لاحظ أننا قمنا بإستخدام علامتي مساواة == من أجل أن نقارن،بينما</string>
+    <string name="thirdlevel16_2">تعلمنا سابقاً أن علامة مساواة واحدة = تستخدم لتخزين المتغيرات</string>
+    <string name="thirdlevel16_3">\ مقارنة</string>
+    <string name="thirdlevel16_4">\ ==</string>
+    <string name="thirdlevel16_5">تخزين المتغيرات</string>
+    <string name="thirdlevel16_6">=</string>
+    <string name="hint3_5">   تذكر: ناتج السطر البرمجي التالي هو : False</string>
+    <string name="hint3_4">تذكر: الترتيب الصحيح للجملة الشرطية هو كالتالي :  </string>
+    <string name="hint3_2"> تذكر: ناتج السطر البرمجي التالي هو جملة : الشرط صحيح  </string>
+
+    <string name="thirdlevel17_1">ماذا لو أردنا التحقق من أن القيمتين</string>
+    <string name="thirdlevel17_2">غير متساويتين؟</string>
+    <string name="thirdlevel17_3">في بايثون نستخدم العلامة</string>
+    <string name="thirdlevel17_4">!=</string>
+    <string name="thirdlevel17_5">للتأكد من ان إحدى القيمتين لاتساوي </string>
+    <string name="thirdlevel17_6">الأخرى.</string>
+    <string name="thirdlevel_10_1">تبعاً للمثال السابق ما الذي سيحدث إذا أضفنا الأمر Else ، \n وقمنا بتغيير الشرط ليكون </string>
+    <string name="thirdlevel_10_2">2>5</string>
+    <string name="thirdlevel_10_3">؟</string>
+    <string name="thirdlevel_11_1">لاحظ معي في المثال السابق ،الشرط الذي\n وضع في جملة if خاطئ لأن 2 أصغر من 5 \nولذلك سوف يقوم الحاسوب بتنفيذ ما\n بداخل Else وهو طباعة“ كوكب الأرض“\n بدلاً من طباعة“ كوكب زحل“ . </string>
+    <string name="thirdlevel_12">في المثال التالي سيتم تنفيذ أمر الطباعة وذلك لأن 5 أكبر من 1 \n هو شرط صحيح …</string>
+    <string name="thirdlevel_22_hint3_3">تذكر: الترتيب الصحيح للجملة الشرطية هو كالتالي : </string>
+    <string name="thirdlevel_22">حاول ترتيب الجملة الشرطية التالية، لتنفيذ أمر الطباعة :  </string>
+
+    <string name="thirdlevel_quiz1">"7&lt;1"</string>
+
+    <string name="fourthlevel_4_firstQuestion">حاول ملء الفراغ باختيار الإجابة الصحيحة ,لإتمام الأمر Loop </string>
+    <string name="fourthlevel_4_secondQuestion"> إذا اردنا تكرار جملة “أهلاً بدرب التبانة “ ٣ مرات  فعلينا وضع رقم :</string>
+    <string name="hint4_1">تذكر: لتنفيذ حلقة while التكرارية نستخدم \nالأمر كما في المثال التالي: </string>
+
+    <string name="hint4_2">   تذكر: إذا أردنا تكرار الجملة التالية 4 مرات،\n فإننا سنضع رقم 4 في الشرط. </string>
+    <string name="fourthlevel_3">  لقد شارفنا على الوصول ! هل أنت مستعد لخوض آخر المهمات في رحلتنا ؟ </string>
+    <string name="fourthlevel_1">أهلا بك في كوكب المشتري !\n لحسن الحظ يحمل هذا الكوكب أخباراً سارّة!\n لقد شارفنا على إتمام المهمة بنجاح !  </string>
+    <string name="fourthlevel_2">يود لبيب أن يرسل رسالة لأهل الأرض ليخبرهم بأنه شارف على \nالوصول، فكيف سيفعل ذلك يا ترى؟! </string>
+    <string name="EndOfLevels">  لقد أتممت مهمة رقم 1793 بنجاح ! يود فريق “هيا نبرمج “بشكرك على مساعدتك  في جمع الألماسات </string>
+
+
+</resources>

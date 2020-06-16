@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/back"
+    android:layout_height="match_parent"
+    tools:context=".welcome_3">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/beforestart"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView19"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-18dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/programming"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:shadowRadius="9"
+        android:shadowDy="1"
+        android:shadowDx="1"
+        android:shadowColor="@color/Shadwo_purple"/>
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="226dp"
+        android:layout_marginTop="90dp"
+        android:contentDescription="@string/desc"
+        app:srcCompat="@drawable/bulb" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="85dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="290dp"
+        android:layout_marginStart="8dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:contentDescription="@string/desc"
+        app:srcCompat="@drawable/newnext"
+        android:layout_marginLeft="8dp" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="193dp"
+        android:layout_height="214dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="196dp"
+        android:layout_marginBottom="11dp"
+        app:srcCompat="@drawable/robot_welcome3" />
+</RelativeLayout>

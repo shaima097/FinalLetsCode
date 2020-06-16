@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/back"
+    android:layout_height="match_parent"
+    tools:context=".welcome_5">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/welcome5_1text"
+        android:textColor="@color/light_font"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="81dp"
+        android:layout_marginEnd="45dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/welcome5_2text"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:shadowDy="1"
+        android:shadowDx="1"
+        android:shadowColor="@color/Shadwo_purple"
+        android:shadowRadius="9"/>
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView23"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="-15dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/welcome5_3text"
+        android:textColor="@color/light_font"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="108dp"
+        android:layout_marginBottom="78dp"
+        android:fontFamily="@font/jannalt_regular"
+        android:text="@string/welcome5_4text"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="9"
+        android:shadowColor="@color/Shadwo_purple"/>
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="85dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="290dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="503dp"
+        android:layout_marginBottom="5dp"
+        app:srcCompat="@drawable/newpre"
+
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="503dp" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="85dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="290dp"
+        android:layout_marginBottom="5dp"
+        android:contentDescription="@string/desc"
+        app:srcCompat="@drawable/newnext"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="152dp"
+        android:layout_height="303dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="32dp"
+        app:srcCompat="@drawable/welcome_5robot" />
+
+    <ImageView
+        android:id="@+id/soundOn"
+        android:layout_width="30dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="7dp"
+        app:srcCompat="@drawable/soundon"
+        android:onClick="play"
+        />
+
+
+</RelativeLayout>

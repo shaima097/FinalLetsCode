@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a96653.LetsCode">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".thirdlevel_18feedback"
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".EndOfLevels"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_video"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_22"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_13_feedback"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_12"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_11"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_10"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_resultsheet"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_18"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_19"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_9"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_24"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_23"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_21"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_8"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_7"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_6"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".MainActivity_Loading"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_1"
+            android:screenOrientation="landscape" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".welcome_1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_6"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".welcome_7"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_6"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_7"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".firstlevel_resultsheet"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".feedback3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_6"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_7_feedback2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".seconlevel_8"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_9"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_10_feedback"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_11"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_12"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_13_feedback"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_14"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_15"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_16"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_17"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_18_quiz"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_20"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_22"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_24"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_26"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".secondlevel_resultsheet"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_14"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_15"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_16"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_17"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".thirdlevel_20_question1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".certificate"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Fourthlevel_resultsheet"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".fourthlevel_6"
+            android:screenOrientation="landscape" />
+    </application>
+
+</manifest>
